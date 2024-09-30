@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.5.0](https://github.com/ublue-os/bluefin/compare/v3.4.0...v3.5.0) (2024-09-30)
+
+
+### Features
+
+* Add os-release changes from Bazzite ([#1708](https://github.com/ublue-os/bluefin/issues/1708)) ([78671f2](https://github.com/ublue-os/bluefin/commit/78671f218b60e52e4240b480f1319e19d6f1cfbb))
+* **bluefin-cli:** add trash-cli ([#1720](https://github.com/ublue-os/bluefin/issues/1720)) ([4f15f91](https://github.com/ublue-os/bluefin/commit/4f15f9157cbd2e525229b0782cfae54602b75bf3))
+* fix weird titlebar on chromium ([#1709](https://github.com/ublue-os/bluefin/issues/1709)) ([9fe6e1c](https://github.com/ublue-os/bluefin/commit/9fe6e1c5dd0a1778e92458efed896ee7254c42e1))
+* **framework:** add color profile for the new fw13 screen ([#1705](https://github.com/ublue-os/bluefin/issues/1705)) ([09f8bae](https://github.com/ublue-os/bluefin/commit/09f8baeeef0fd6a529983cbd1f64377dab8b6e0b))
+
+
+### Bug Fixes
+
+* Correct doubled build ID in DX images ([#1714](https://github.com/ublue-os/bluefin/issues/1714)) ([afee492](https://github.com/ublue-os/bluefin/commit/afee4926b1ee2f1417703c2d3dc4e9ef073491e9))
+* ensure gnome-extensions-app is removed ([#1724](https://github.com/ublue-os/bluefin/issues/1724)) ([a2c65af](https://github.com/ublue-os/bluefin/commit/a2c65af00821491c7aa28527276fc4e90c27c6a1))
+* rename discourse shortcut to community ([#1710](https://github.com/ublue-os/bluefin/issues/1710)) ([7b8091e](https://github.com/ublue-os/bluefin/commit/7b8091e7e882f21f8d1a9ad2847c5633a696cf48))
+
 ## [3.4.0](https://github.com/ublue-os/bluefin/compare/v3.3.0...v3.4.0) (2024-09-27)
 
 
